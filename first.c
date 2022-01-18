@@ -4,5 +4,6 @@
 int main()
 {
 	printf("push");
+	//aaaaaa
 	return 0;
 }
